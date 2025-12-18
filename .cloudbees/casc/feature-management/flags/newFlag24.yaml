@@ -2,15 +2,13 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag
 
-flag: rom-bool
+flag: newFlag24
 flagType: boolean
-description: ""
+description: testing has perm
 labels:
-  - loooonnnnnnggggggg-label
-  - label-1
+  - l1
+  - l2
 
 availableValues:
-  - "true"
-  - "false"
 
 isPermanent: false

@@ -2,9 +2,9 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag-configuration
 
-flag: Campaign1Flag
+flag: a
 
-enabled: true
+enabled: false
 
 stickinessProperty: rox.distinct_id
 
