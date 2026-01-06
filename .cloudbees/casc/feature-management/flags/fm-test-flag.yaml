@@ -6,7 +6,6 @@ flag: fm-test-flag
 flagType: boolean
 description: ""
 labels:
-  - "1"
 
 availableValues:
   - "true"
