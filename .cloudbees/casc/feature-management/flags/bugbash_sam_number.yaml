@@ -2,14 +2,14 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag
 
-flag: fm-test-flag
-flagType: boolean
+flag: bugbash_sam_number
+flagType: number
 description: ""
 labels:
-  - "1"
 
 availableValues:
-  - "true"
-  - "false"
+  - "13"
+  - "15"
+  - "11"
 
 isPermanent: false
